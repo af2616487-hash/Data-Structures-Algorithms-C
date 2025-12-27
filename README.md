@@ -151,6 +151,4 @@ If this repository helped you, please give it a ⭐ star!
 
 ---
 
-**Created for B.Tech 1st Year Computer Science & AI/ML Students**
-
 *Last Updated: December 2025*
